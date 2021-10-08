@@ -1,0 +1,25 @@
+{
+  "name": "apiplay",
+  "version": "1.0.0",
+  "description": "this is the api play readme\r additional line for commit",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyalring/api_play.git"
+  },
+  "author": "eyal.ringwald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyalring/api_play/issues"
+  },
+  "homepage": "https://github.com/eyalring/api_play#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.9",
+    "nodemon": "^2.0.13"
+  }
+}
